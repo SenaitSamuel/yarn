@@ -1,0 +1,11 @@
+{
+  "name": "yarn",
+  "version": "1.0.0",
+  "description": "Module assignment 2",
+  "main": "index.js",
+  "author": "Senait Samuel",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": "^3.3.1"
+  }
+}
